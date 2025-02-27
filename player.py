@@ -4,6 +4,6 @@ class Player:
         self.score = 0
 
     def roll(self):
-        self.roll = random.randint(1,6)
-        
+        return random.randint(1,6)
+
 
