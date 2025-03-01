@@ -20,6 +20,5 @@ class Game:
             print("Player",player_index,"score is",playerObj.score)
             player_index +=1
      
-
 playerObj = Player()
 
