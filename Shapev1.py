@@ -8,12 +8,14 @@ t1.color("blue")
 tut = turtle.Screen()            
   
 for i in range(4): 
+    t1.color("green")
     t1.forward(100) 
     t1.left(90) 
   
 t1.goto(50,50) 
   
 for i in range(4): 
+    t1.color("red")
     t1.forward(100) 
     t1.left(90) 
 
